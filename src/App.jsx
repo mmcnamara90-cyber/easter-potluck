@@ -137,7 +137,7 @@ export default function App() {
         </div>
         <div style={{ background: pastel.banner, border: '2px solid #f48fb1', borderRadius: 16, padding: '16px 20px', marginBottom: 24, textAlign: 'center' }}>
           <div style={{ fontSize: 18, fontWeight: 700, color: pastel.header, marginBottom: 4 }}>🌸 Easter Sunday Brunch</div>
-          <div style={{ color: pastel.text, fontSize: 15, marginBottom: 2 }}>Sunday, April 20, 2025  ·  11:00 AM</div>
+          <div style={{ color: pastel.text, fontSize: 15, marginBottom: 2 }}>Sunday, April 5, 2026 · 11:00 AM</div>
           <div style={{ color: pastel.soft, fontSize: 14, marginTop: 6 }}>Sign up below with your name and what you are bringing. Everyone sees the same list in real time!</div>
         </div>
         <div style={{ background: pastel.card, borderRadius: 16, border: '2px solid #f8bbd0', padding: 24, marginBottom: 24, boxShadow: '0 4px 16px #f8bbd040' }}>
